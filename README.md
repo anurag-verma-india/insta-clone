@@ -1,3 +1,1 @@
-# insta-clone
-
-[instagram](https://instagram.com)
+# A clone of Instagram
