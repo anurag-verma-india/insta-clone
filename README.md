@@ -1,7 +1,14 @@
-# Fullstack Instagram Clone Tutorial
+# Instagram Clone with ReactJS, Chakra UI & Firebase
 
-### Built With React, Firebase && Chakra UI
+# [Live Demo](https://insta-clone-by-anurag.vercel.app/auth)
 
-# [Tutorial](https://youtu.be/bQtAg7AFFrY)
+This is a basic Instagram Clone built by following []()
 
-![Screenshot of App](https://i.ibb.co/PjkYLCk/Group-34.png)
+## Technologies Used
+
+## Planned Features
+
+- [x] OAuth
+- [x] Creating Posts
+- [x] Searching Users
+- [ ] Commenting on Posts

@@ -17,7 +17,7 @@ const SuggestedHeader = () => {
         </Link>
         <Link to={`${authUser.username}`}>
           <Text fontSize={12} fontWeight={"bold"}>
-            {authUser.username}{" "}
+            {authUser.username}
           </Text>
         </Link>
       </Flex>
@@ -27,13 +27,12 @@ const SuggestedHeader = () => {
         _hover={{ background: "transparent" }}
         fontSize={14}
         fontWeight={"medium"}
-        color={"blue.400"}
-        // color={"red.400"}
+        // color={"blue.400"}
+        color={"red.400"}
         onClick={handleLogout}
         isLoading={isLoggingOut}
         cursor={"pointer"}
       >
-        {" "}
         Log out
       </Button>
     </Flex>
