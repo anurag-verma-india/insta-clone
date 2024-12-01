@@ -64,7 +64,8 @@ const Search = () => {
               <FormControl>
                 <FormLabel>Username</FormLabel>
                 <Input
-                  placeholder="peter_parker or www.theanuragverma"
+                  // placeholder="peter_parker or www.theanuragverma"
+                  placeholder="peter_parker or anurag_verma"
                   ref={searchRef}
                 />
               </FormControl>
