@@ -34,7 +34,7 @@ const SuggestedUsers = () => {
       ))}
 
       <Box fontSize={12} color={"gray.500"} mt={5} alignSelf={"start"}>
-        © 2024 Built By{" "}
+        © 2025 Built By{" "}
         <Link
           href="https://github.com/anurag-verma-india"
           target="_blank"
