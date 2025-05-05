@@ -1,6 +1,15 @@
-# Instagram Clone with ReactJS, Chakra UI & Firebase
+# Instagram Clone
 
-## [Live Demo](https://social-media-by-anurag.vercel.app/auth)
+## Technologies Used
+
+- [**React JS**](https://react.dev/)
+- [**Firebase**](https://firebase.google.com/)
+- [Chakra UI](https://chakra-ui.com/)
+- [Vite](https://vite.dev/)
+
+## [Live Demo Link](https://social-media-by-anurag.vercel.app/auth)
+
+https://social-media-by-anurag.vercel.app
 
 ### Note: Google Chrome thinks that this is a phishing site because of it's similarity to original Instagram
 
@@ -18,8 +27,6 @@ Here are some sample photos from this project
 ![Search Page Screenshot](/README-Photos/search.png)
 ![Post Page Screenshot](/README-Photos/post.png)
 ![Profile Page Screenshot](/README-Photos/profile.png)
-
-## Technologies Used
 
 ## Planned Features
 
