@@ -1,5 +1,18 @@
 # Instagram Clone
 
+## Features Working  
+
+- [x] Login/Signin [OAuth & Email]
+- [x] Creating Posts
+- [x] User Profiles page
+- [x] Searching Users
+- [x] Commenting on Posts
+
+## Planned Features
+
+- [ ] Realtime chat between users
+- [ ] AI chatbot
+
 ## Technologies Used
 
 - [**React JS**](https://react.dev/)
@@ -18,19 +31,10 @@ https://social-media-by-anurag.vercel.app
 ![Click Details](/README-Photos/step1.png)
 ![Click this unsave site](/README-Photos/step2.png)
 
-## Sample Photos
-
-Here are some sample photos from this project
+## Screenshots
 
 ![Login Page Screenshot](/README-Photos/login.png)
 ![Home Page Screenshot](/README-Photos/home.png)
 ![Search Page Screenshot](/README-Photos/search.png)
 ![Post Page Screenshot](/README-Photos/post.png)
 ![Profile Page Screenshot](/README-Photos/profile.png)
-
-## Planned Features
-
-- [x] OAuth
-- [x] Creating Posts
-- [x] Searching Users
-- [x] Commenting on Posts
